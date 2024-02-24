@@ -1,0 +1,18 @@
+relevant_columns,23
+Age,0.0928070385597012
+PotentialParentAge,-0.07801066937432102
+MarriedAtAge,-0.019252451110271157
+Country_India,-0.651446147038815
+SleepPattern_regular,-1.5496056220703884
+SleepHourAverage_7-8 hours,-0.18516867730117356
+StressLevelRating_low,-0.11341935582077195
+StressReductionActivityFrequency_rarely,0.18828813739753772
+StressReductionActivityFrequency_sometimes,2.0916838247168683
+OutsideFoodFrequency_once every week,0.11322621208192749
+DrasticWeightIncrease_Yes,0.8077439535087456
+PackagedFoodFrequency_frequently,-0.34729897976734797
+PackagedFoodFrequency_rarely,0.09754058252599332
+Alcohol_rarely,-0.2383048781152818
+StressOvercomeFastFood_Yes,0.09497956553268944
+PeriodSkipFrequency_never,-1.207218916618761
+Accuracy,0.7083333333333334

@@ -1,0 +1,118 @@
+Age,Country,PotentialParentAge,SleepPattern,SleepHourAverage,StressLevelRating,StressReductionActivityFrequency,OutsideFoodFrequency,DrasticWeightIncrease,PackagedFoodFrequency,SmokeOrTobacco,Alcohol,Recreational,LiveNearToxicity,StressOvercomeFastFood,PeriodSkipFrequency,ContraceptiveIntake,Diagnosis,ChildrenAtAge,MarriedAtAge
+18,India,28,irregular,5-6 hours,moderate,never,once every month,No,frequently,No,never,No,No,Yes,sometimes,No,No,-1,-1
+20,India,30,regular,5-6 hours,moderate,rarely,once every week,No,sometimes,No,never,No,No,No,frequently,No,No,-1,-1
+20,India,29,regular,5-6 hours,moderate,sometimes,once every week,No,sometimes,No,rarely,No,No,Yes,never,No,No,-1,-1
+100,Uruguay,81,disturbed,3-4 hours,high,never,Everyday,Yes,everyday,Yes,everyday,Yes,Yes,Yes,frequently,Yes,Polycystic Ovary Syndrome (PCOS),18,-1
+18,India,-1,irregular,5-6 hours,high,frequently,once every week,No,sometimes,No,every month,No,No,No,never,No,No,-1,-1
+19,India,27,irregular,3-4 hours,moderate,never,Everyday,No,frequently,No,rarely,No,No,Yes,sometimes,No,No,-1,-1
+48,India,-1,regular,7-8 hours,moderate,sometimes,once every month,Yes,rarely,No,never,No,No,No,never,No,No,28,24
+20,India,-1,irregular,5-6 hours,moderate,rarely,once every month,No,rarely,No,never,No,No,No,never,No,No,-1,-1
+19,India,28,regular,5-6 hours,moderate,rarely,once every week,Yes,frequently,No,never,No,No,No,never,No,No,-1,-1
+20,India,-1,regular,5-6 hours,moderate,frequently,once every week,No,frequently,No,rarely,No,No,Yes,never,No,No,-1,-1
+20,India ,30,irregular,5-6 hours,moderate,frequently,once every week,No,frequently,No,rarely,No,No,No,sometimes,No,Polycystic Ovary Syndrome (PCOS),-1,-1
+46,India,32,disturbed,5-6 hours,moderate,rarely,once every week,No,sometimes,No,every month,No,Yes,No,never,No,No,26,22
+18,India,32,regular,7-8 hours,moderate,frequently,once every week,No,rarely,No,rarely,No,No,No,never,No,No,-1,-1
+41,India,28,irregular,5-6 hours,moderate,sometimes,once every week,Yes,frequently,No,never,No,Yes,No,sometimes,No,No,12,27
+28,India,34,disturbed,5-6 hours,high,frequently,once every week,Yes,sometimes,No,every month,Yes,No,No,never,No,No,-1,-1
+19,Romania,39,irregular,5-6 hours,moderate,rarely,once every month,No,frequently,No,every month,No,No,Yes,never,No,No,-1,-1
+19,India,30,irregular,5-6 hours,moderate,frequently,once every month,No,sometimes,No,every month,No,No,Yes,never,No,No,-1,-1
+18,india,24,regular,5-6 hours,moderate,rarely,once every month,No,frequently,No,rarely,No,Yes,No,never,No,No,-1,-1
+18,india,30,irregular,5-6 hours,high,rarely,Everyday,No,frequently,No,rarely,No,Yes,Yes,frequently,No,No,-1,-1
+18,Mumbai ,-1,regular,7-8 hours,moderate,sometimes,once every week,Yes,rarely,No,rarely,No,No,No,never,No,No,-1,-1
+18,India,25,regular,5-6 hours,moderate,sometimes,Everyday,Yes,frequently,No,every month,No,Yes,Yes,never,No,No,-1,-1
+20,India,-1,regular,5-6 hours,high,never,Everyday,No,frequently,No,rarely,No,No,Yes,sometimes,No,No,-1,-1
+20,Germany,-1,regular,7-8 hours,moderate,frequently,once every month,No,everyday,Yes,every month,Yes,No,No,never,No,No,-1,-1
+18,India,30,regular,7-8 hours,high,sometimes,once every week,No,frequently,No,rarely,No,No,No,frequently,No,No,-1,-1
+43,Austria,-1,regular,7-8 hours,moderate,sometimes,once every week,No,sometimes,No,every week,No,No,No,never,No,Infertility,30,25
+19,India ,30,disturbed,7-8 hours,moderate,sometimes,once every week,No,sometimes,No,never,No,No,Yes,never,No,No,-1,-1
+19,India,28,irregular,5-6 hours,high,rarely,once every week,Yes,sometimes,No,rarely,No,No,Yes,never,No,No,-1,-1
+45,India ,28,regular,7-8 hours,moderate,frequently,once every month,No,sometimes,No,every week,No,No,No,sometimes,No,No,28,26
+20,India ,27,disturbed,3-4 hours,moderate,rarely,Everyday,No,sometimes,No,rarely,No,No,No,never,No,No,-1,-1
+41,India ,-1,regular,7-8 hours,moderate,sometimes,once every month,Yes,rarely,No,rarely,No,No,No,never,No,No,32,29
+19,India,30,regular,5-6 hours,high,sometimes,once every week,Yes,frequently,No,never,No,Yes,No,never,No,No,-1,-1
+16,United States,-1,regular,7-8 hours,moderate,rarely,once every month,No,rarely,No,never,No,No,No,sometimes,No,No,-1,-1
+25,România ,32,regular,7-8 hours,moderate,never,once every month,Yes,sometimes,No,rarely,No,No,Yes,never,No,No,-1,-1
+15,România ,27,regular,7-8 hours,moderate,never,Everyday,No,sometimes,No,rarely,No,No,No,sometimes,No,No,-1,-1
+25,United Kingdom,28,regular,7-8 hours,moderate,frequently,once every week,Yes,sometimes,No,rarely,No,No,No,never,No,No,-1,-1
+14,United States,30,regular,7-8 hours,moderate,frequently,once every week,Yes,sometimes,No,never,No,Yes,No,never,No,No,-1,-1
+46,India ,28,irregular,5-6 hours,moderate,sometimes,once every month,No,sometimes,No,never,No,No,No,never,No,No,18,27
+19,India ,35,regular,5-6 hours,moderate,never,once every month,No,rarely,No,rarely,No,No,No,never,No,No,-1,-1
+18,India ,28,regular,5-6 hours,low,frequently,once every week,No,sometimes,No,never,No,Yes,No,sometimes,No,No,-1,-1
+20,India ,31,irregular,5-6 hours,moderate,rarely,once every week,No,sometimes,No,rarely,No,No,Yes,never,No,No,-1,-1
+20,India ,-1,irregular,5-6 hours,moderate,sometimes,once every month,Yes,frequently,No,rarely,No,No,No,never,No,No,-1,-1
+19,India,29,irregular,7-8 hours,moderate,rarely,once every week,No,frequently,No,never,No,No,Yes,sometimes,No,No,-1,-1
+34,Mumbai,25,irregular,7-8 hours,moderate,sometimes,once every month,No,rarely,No,never,No,No,Yes,sometimes,No,Polycystic Ovary Syndrome (PCOS),24,22
+36,India,1,regular,7-8 hours,high,rarely,once every month,Yes,rarely,No,never,No,No,Yes,sometimes,No,Menstrual Disorders,-1,-1
+49,India,-1,irregular,5-6 hours,moderate,sometimes,once every week,No,sometimes,No,never,No,No,No,never,No,No,-1,-1
+45,India ,-1,disturbed,5-6 hours,moderate,rarely,once every month,No,rarely,No,every month,No,No,No,frequently,No,"Infertility, No",40,39
+44,India,-1,regular,7-8 hours,high,sometimes,once every month,Yes,sometimes,No,rarely,No,No,Yes,never,Yes,No,26,25
+42,India,-1,disturbed,5-6 hours,moderate,frequently,once every month,No,sometimes,No,rarely,No,No,No,never,No,No,29,27
+45,India ,-1,regular,5-6 hours,moderate,rarely,once every month,Yes,rarely,No,never,No,No,No,frequently,No,No,27,26
+42,India ,-1,regular,5-6 hours,moderate,frequently,once every month,Yes,rarely,No,rarely,No,No,No,never,No,No,27,-1
+28,India,-1,disturbed,5-6 hours,moderate,rarely,once every month,Yes,rarely,No,never,No,No,No,never,No,No,26,24
+47,India,-1,regular,5-6 hours,high,sometimes,once every month,Yes,sometimes,No,never,No,No,No,sometimes,No,"Infertility, Endometriosis",-1,27
+43 years ,India,-1,irregular,3-4 hours,moderate,rarely,once every week,No,rarely,No,rarely,No,No,No,frequently,No,Polycystic Ovary Syndrome (PCOS),-1,-1
+43,India,-1,regular,7-8 hours,low,frequently,once every week,No,sometimes,No,every month,No,No,No,never,No,Menstrual Disorders,30,24
+28,India,-1,regular,5-6 hours,high,rarely,once every month,No,sometimes,No,rarely,No,No,No,never,No,No,-1,-1
+32,India,33,regular,7-8 hours,moderate,rarely,once every week,Yes,sometimes,No,rarely,No,No,No,never,No,No,-1,-1
+41,India,-1,regular,7-8 hours,low,sometimes,once every month,No,sometimes,No,rarely,No,No,No,never,No,No,28,26
+50,India,30,irregular,5-6 hours,low,frequently,once every month,Yes,rarely,No,never,No,No,No,sometimes,No,No,24,22
+37,India,30,regular,5-6 hours,moderate,frequently,once every month,No,rarely,No,never,No,No,No,never,No,No,30,25
+40,India ,30,regular,7-8 hours,moderate,sometimes,once every month,No,sometimes,No,never,No,No,No,never,No,No,28,26
+33,India,-1,irregular,3-4 hours,high,sometimes,once every month,Yes,rarely,No,never,No,No,Yes,never,No,Polycystic Ovary Syndrome (PCOS),32,30
+35,India ,-1,regular,7-8 hours,moderate,never,Once a year,No,rarely,No,never,No,No,No,never,Yes,No,-1,-1
+50yr,India ,29,disturbed,5-6 hours,high,sometimes,once every month,Yes,rarely,No,never,No,No,Yes,sometimes,No,No,29,27
+45,India ,28,irregular,3-4 hours,high,rarely,once every week,Yes,sometimes,No,never,No,No,Yes,sometimes,No,Menstrual Disorders,33,32
+41,India,28,regular,5-6 hours,moderate,sometimes,once every week,No,sometimes,No,never,No,No,No,never,No,No,28,27
+36,India ,-1,regular,5-6 hours,low,frequently,once every week,Yes,rarely,No,never,No,No,No,never,No,No,-1,35
+33,India,-1,regular,5-6 hours,moderate,frequently,once every month,No,rarely,No,never,No,No,No,sometimes,No,No,28,26
+37,India,-1,irregular,5-6 hours,low,rarely,once every month,No,rarely,No,never,No,No,No,never,No,No,26,25
+39,India,-1,regular,7-8 hours,moderate,sometimes,once every week,No,rarely,No,never,No,No,No,sometimes,No,No,-1,-1
+46,India,28,irregular,5-6 hours,moderate,sometimes,once every month,No,rarely,No,never,No,No,No,never,No,No,28,27
+47,India,0,regular,7-8 hours,low,frequently,once every month,No,rarely,No,never,No,No,No,sometimes,No,No,25,23
+47,India,-1,regular,5-6 hours,moderate,frequently,once every week,No,rarely,No,never,No,No,No,sometimes,No,No,29,26
+44,India,-1,regular,7-8 hours,moderate,rarely,once every week,No,frequently,No,never,No,No,Yes,never,No,No,25,23
+19,India ,27,regular,7-8 hours,moderate,rarely,once every week,Yes,sometimes,No,never,No,No,No,never,No,No,-1,-1
+40,India ,28,regular,5-6 hours,low,rarely,once every month,No,rarely,No,never,No,No,No,never,No,No,24,22
+19,India,28,irregular,5-6 hours,high,rarely,once every week,Yes,frequently,No,never,No,No,Yes,frequently,No,No,-1,-1
+38,India,-1,irregular,5-6 hours,moderate,frequently,once every week,Yes,rarely,No,every month,No,No,No,never,No,No,36,34
+19,India,28,disturbed,5-6 hours,moderate,frequently,once every week,No,sometimes,No,never,No,No,Yes,sometimes,No,No,-1,-1
+20,India,25,irregular,5-6 hours,high,sometimes,once every week,No,frequently,No,never,No,No,No,sometimes,No,No,-1,-1
+18,India,26,regular,7-8 hours,moderate,sometimes,once every week,No,sometimes,No,never,No,No,Yes,never,No,No,-1,-1
+20,India ,-1,regular,7-8 hours,moderate,rarely,Everyday,No,frequently,No,never,No,No,No,frequently,No,No,-1,-1
+17,India,25,regular,5-6 hours,moderate,sometimes,once every week,No,frequently,No,never,No,No,Yes,never,No,No,-1,-1
+18,India,-1,irregular,5-6 hours,moderate,sometimes,once every week,Yes,frequently,No,never,No,No,Yes,frequently,No,Polycystic Ovary Syndrome (PCOS),-1,-1
+47,India,27,disturbed,5-6 hours,high,never,once every month,No,sometimes,No,never,No,No,No,sometimes,No,Menstrual Disorders,27,24
+18,Maharashtra,25,regular,7-8 hours,low,frequently,once every month,No,frequently,No,never,No,No,No,never,No,No,-1,-1
+18,India,28,disturbed,5-6 hours,high,never,once every month,Yes,sometimes,No,never,No,No,Yes,sometimes,No,Menstrual Disorders,-1,-1
+17,India ,25,disturbed,5-6 hours,moderate,rarely,Everyday,Yes,everyday,No,never,No,Yes,Yes,sometimes,No,No,-1,-1
+39,India,-1,regular,7-8 hours,low,never,once every month,Yes,rarely,No,never,No,No,No,never,No,No,26,25
+43,India ,-1,regular,5-6 hours,low,never,Once a year,No,rarely,No,never,No,No,No,never,No,No,-1,-1
+17,India ,30,regular,7-8 hours,high,rarely,Everyday,Yes,everyday,No,never,No,No,No,sometimes,No,No,-1,-1
+45,India ,25,regular,5-6 hours,moderate,rarely,Once a year,Yes,rarely,No,never,No,No,No,sometimes,No,No,-1,-1
+17,India,26,regular,7-8 hours,moderate,sometimes,once every week,Yes,frequently,No,never,No,No,No,never,No,No,-1,-1
+29,Mumbai,-1,disturbed,5-6 hours,low,rarely,once every week,No,frequently,No,never,No,No,No,never,No,No,23,20
+18,INDIA,25,irregular,5-6 hours,high,never,once every month,No,sometimes,No,never,No,No,No,never,No,No,-1,-1
+19,India,25,regular,7-8 hours,moderate,frequently,once every month,No,sometimes,No,rarely,No,No,No,never,No,No,-1,-1
+41 years ,India ,-1,regular,5-6 hours,moderate,rarely,once every month,No,rarely,No,never,No,No,No,never,No,No,31,30
+17,Mumbai,28,regular,7-8 hours,moderate,rarely,once every week,No,sometimes,No,never,No,No,No,sometimes,No,No,28,25
+19,Mumbai ,26,regular,5-6 hours,moderate,sometimes,once every month,Yes,rarely,No,never,No,No,No,never,No,Menstrual Disorders,-1,-1
+18,India,26,irregular,7-8 hours,low,sometimes,once every week,Yes,frequently,No,never,No,No,Yes,sometimes,No,Polycystic Ovary Syndrome (PCOS),-1,-1
+43year ,India ,30,irregular,3-4 hours,high,never,Once a year,Yes,rarely,No,never,No,No,No,never,No,No,-1,-1
+40,India,-1,regular,3-4 hours,high,frequently,once every week,No,sometimes,No,never,No,No,No,never,No,No,24,23
+27,India,29,regular,5-6 hours,low,rarely,once every week,No,sometimes,No,never,No,No,Yes,frequently,No,Menstrual Disorders,-1,-1
+16,India,-1,regular,5-6 hours,moderate,rarely,once every month,Yes,sometimes,No,never,No,No,No,never,No,No,-1,-1
+56,India ,-1,regular,3-4 hours,moderate,sometimes,once every month,No,sometimes,No,never,No,No,No,never,No,Menstrual Disorders,24,23
+52,India ,-1,regular,3-4 hours,high,rarely,once every month,Yes,rarely,No,never,No,No,No,never,No,No,21,20
+52,India ,-1,regular,3-4 hours,high,rarely,once every month,Yes,rarely,No,never,No,No,No,never,No,No,21,20
+40,India,23,regular,5-6 hours,low,frequently,once every month,No,rarely,No,never,No,No,No,never,No,No,23,22
+36,India ,-1,disturbed,5-6 hours,moderate,sometimes,once every month,No,rarely,No,never,No,No,No,never,No,No,28,26
+18,India ,-1,irregular,5-6 hours,moderate,rarely,once every month,No,sometimes,No,never,No,No,No,sometimes,No,No,-1,-1
+19,Mumbai ,27,disturbed,5-6 hours,moderate,rarely,once every week,Yes,rarely,No,never,No,No,Yes,sometimes,No,Polycystic Ovary Syndrome (PCOS),-1,-1
+18,India ,30,regular,5-6 hours,moderate,never,once every week,Yes,frequently,No,never,No,No,Yes,never,No,No,-1,-1
+18,India,35,disturbed,3-4 hours,moderate,never,once every month,No,frequently,No,never,No,No,No,sometimes,No,No,-1,-1
+18,India ,28,disturbed,3-4 hours,high,never,once every week,No,frequently,No,never,No,Yes,No,never,No,No,-1,-1
+16,India ,29,regular,5-6 hours,moderate,sometimes,once every month,Yes,sometimes,No,never,No,No,Yes,never,No,No,-1,-1
+25,India ,29,regular,5-6 hours,moderate,frequently,once every week,Yes,rarely,No,never,No,No,Yes,sometimes,No,No,-1,-1
+38,India,38,regular,7-8 hours,low,frequently,once every month,No,rarely,No,never,No,No,No,never,No,No,-1,37
+19,India ,30,irregular,5-6 hours,moderate,sometimes,once every month,No,sometimes,No,never,No,No,Yes,frequently,No,No,-1,-1
